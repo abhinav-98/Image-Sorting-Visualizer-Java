@@ -4,6 +4,7 @@ Created a image sorting visualizer which sorts a distorted image using bubble-so
 
 ### Running
 
+Install Java(JDK 8) on your system.
 Download the Executable JAR file included in the project and run it.
 Ignore the warning: it is completely safe.
 
