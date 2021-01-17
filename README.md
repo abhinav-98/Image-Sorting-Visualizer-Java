@@ -4,7 +4,7 @@ Created a image sorting visualizer which sorts a distorted image using bubble-so
 
 ### Running
 
-Download the JAR file included in the project and run it.
+Download the Executable JAR file included in the project and run it.
 Ignore the warning: it is completely safe.
 
 ### Concept used
